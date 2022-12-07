@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-// body
+
 body {
   background-color: rgb(255, 247, 201);
   font-family: Arial;
@@ -28,7 +28,7 @@ p {
 .first {
   color: red;
 }
-// your name
+
 #your-name {
   background-color: rgb(255, 220, 105);
   border: 5px solid #444;
@@ -36,7 +36,7 @@ p {
   padding: 25px;
   margin-top: 30px;
 }
-//input button
+
 input,
 button {
   padding: 10px;
@@ -46,11 +46,11 @@ button {
 a {
   background-color: yellowgreen;
 }
-//coursse image
+
 #course-image {
   width: 300px;
 }
-//your name
+
 #your-name h2 {
   color: olivedrab;
 }
